@@ -1,0 +1,20 @@
+[
+    {
+        "icon": "/tow-01.png",
+        "name": "1.App Membrane",
+        "bestFor": "Best for: Roofs, terraces..",
+        "cost":"270 per Sq.meter",
+        "description":"APP (Atactic Polypropylene) membrane waterproofing is a heat-applied solution that creates a durable, flexible, and water-resistant layer. It provides excellent protection against water seepage, cracks, and harsh weather conditions, making it ideal for long-term waterproofing.",
+        "descriptionBestfor" : "Roofs, terraces, basements, and foundations"
+    },
+    {
+        "icon": "/tow-02.png",
+        "name": "2.HDPE/SBS Membrane",
+        "bestFor": "Best for: Underground stru.."
+    },
+    {
+        "icon": "/tow-03.png",
+        "name": "3.Brick Bat Coba",
+        "bestFor": "Best for: Roofs, terraces.."
+    }
+]

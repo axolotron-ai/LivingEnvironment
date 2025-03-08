@@ -1,0 +1,28 @@
+[
+    {
+        "icon": "/con-01.svg",
+        "name": "Prevents Foundation Cracks",
+        "description": "Excess moisture can weaken the foundation of your home, leading to cracks and instability. Waterproofing ensures a strong and damage-free foundation.",
+        "place": "items-top"
+    },
+    {
+        "icon": "/con-02.png",
+        "name": "Enchance Roof & Terrace Life",
+        "description": "Constant exposure to rain and moisture can weaken your roof and terrace. Waterproofing adds an extra layer of protection, extending their lifespan.",
+        "place": "items-end"
+
+    },
+    {
+        "icon": "/con-03.png",
+        "name": "Avoids Electrical Hazards",
+        "description": "Water leakage near electrical wiring can be extremely dangerous. Waterproofing helps prevent short circuits and reduces the risk of electrical accidents.",
+        "place": "items-top"
+
+    },
+    {
+        "icon": "/con-04.png",
+        "name": "Prevents Costly Repair",
+        "description": "Ignoring leaks today can lead to expensive structural damage tomorrow. Waterproofing helps you avoid costly repairs caused by water seepage and mold buildup.",
+        "place": "items-end"
+        }
+]

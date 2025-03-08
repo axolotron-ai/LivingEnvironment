@@ -1,0 +1,27 @@
+[
+    {
+        "description":"Reliable and professional service! The APP membrane waterproofing has completely solved our leakage issues. Our terrace is now well-protected, even during heavy rains.",
+        "icon":"/double-quotes.png",
+        "place": "items-top",
+        "color": "#DDF5EF"
+    },
+    {
+        "description":"Highly satisfied with the waterproofing service! The team was professional, and the quality of work is excellent. I'd definitely recommend them for anyone facing water leakage problems.",
+        "icon":"/double-quotes.png",
+        "place": "items-end",
+        "color": "#F5F5DD"
+
+    },
+    {
+        "description": "Brick Bat Coba waterproofing worked wonders for our old building's terrace. No more water logging or cracks, and it even helps in keeping the place cooler!.",
+        "icon":"/double-quotes.png",
+        "place": "items-end",
+        "color": "#DFDDF5"
+    },
+    {
+        "description":"We had constant seepage in our basement, but after using HDPE membrane waterproofing, the problem is gone! The team was efficient, and the results have been fantastic.",
+        "icon":"/double-quotes.png",
+        "place": "items-top",
+        "color": "#F5DDE3"
+    }
+]
