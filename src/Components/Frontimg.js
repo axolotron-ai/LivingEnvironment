@@ -34,7 +34,7 @@ function Hero() {
           <h1 className="text-7xl font-medium">1899</h1>
         </div>
         <div className="md:pr-2">
-          <p className="md:hidden block">₹ 1899</p>
+          <p className="md:hidden block text-[32px]">₹ 1899</p>
           <h1 className="text-[14px] md:text-xl font-medium">PER SQ.FT</h1>
           <h1 className="text-[14px] md:text-xl font-medium">ONWARDS</h1>
           <p className="text-[#A1A1A1] text-[12px] md:font-normal">Terms and Condition</p>

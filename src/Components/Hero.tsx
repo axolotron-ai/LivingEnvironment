@@ -32,7 +32,7 @@ function Hero() {
 
       <div className="bg-[#2F2F2F99] bg-opacity-60 w-fit h-fit absolute md:bottom-16 md:right-24 md:flex items-center justify-evenly md:gap-x-10 md:px-4 md:py-6 p-2 left-4 bottom-0.5 rounded-lg md:left-auto">
         <div className="md:border-r-2 md:pr-8">
-          <h1 className="text-lg md:text-4xl font-medium">50+</h1>
+          <h1 className="text-4xl md:text-4xl font-medium">50+</h1>
           <p className="text-sm md:text-base">Satisfied clients</p>
         </div>
         <div className="hidden md:inline-block">
